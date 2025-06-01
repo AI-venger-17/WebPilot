@@ -1,6 +1,8 @@
-streamlit>=1.28.0
-mcp-agent>=0.0.14
-openai>=1.0.0
-asyncio
-python-dotenv
-huggingface_hub
+puppeteer
+puppeteer-extra
+puppeteer-extra-plugin-stealth
+express
+typescript
+ts-node
+@types/express
+@types/node

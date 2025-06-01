@@ -1,24 +1,29 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.Python
-venv/
-*.egg-info/
-.pytest_cache/
-
-# Logs
-logs/
+# Node modules
+node_modules/
+package-lock.json
 
 # Environment variables
 .env
-*.env
+
+# Build artifacts
+dist/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
 
 # IDEs
 .vscode/
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
+# Puppeteer Chromium cache (if using default)
+.cache/
+
+#
+venv
