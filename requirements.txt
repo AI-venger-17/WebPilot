@@ -1,8 +1,0 @@
-puppeteer
-puppeteer-extra
-puppeteer-extra-plugin-stealth
-express
-typescript
-ts-node
-@types/express
-@types/node
