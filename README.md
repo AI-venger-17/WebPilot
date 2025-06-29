@@ -29,7 +29,7 @@ WebPilot is a cutting-edge browser automation tool driven by an AI Agent that le
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Brain-Bot-17/WebPilot.git
+git clone https://github.com/AI-venger-17/WebPilot.git
 cd WebPilot
 
 ```
